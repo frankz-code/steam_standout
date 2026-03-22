@@ -921,13 +921,15 @@ html { scroll-behavior: smooth; }
 <p class="chart-caption">三种策略下的组合质量。收入 &gt;$10M 和 &gt;$50M 占比、进入全样本收入 Top-100 的占比。</p>
 </div>
 
+<div style="overflow-x:auto;">
 <table class="data-table">
-<thead><tr><th>策略</th><th class="num">收入&gt;$10M</th><th class="num">收入&gt;$50M</th><th class="num">收入中位数</th><th class="num">进入Top-100</th></tr></thead>
+<thead><tr><th>策略</th><th class="num">&gt;$10M</th><th class="num">&gt;$50M</th><th class="num">中位数</th><th class="num">Top-100</th></tr></thead>
 <tbody>
-<tr><td><strong>广角策略</strong>（336款）</td><td class="num">45%</td><td class="num">17%</td><td class="num">$10.4M</td><td class="num">25%（84/336）</td></tr>
-<tr><td><strong>精选策略</strong>（135款）</td><td class="num">73%</td><td class="num">35%</td><td class="num">$36.4M</td><td class="num">53%（71/135）</td></tr>
-<tr><td><strong>高确信策略</strong>（58款）</td><td class="num">86%</td><td class="num">57%</td><td class="num">$83.3M</td><td class="num">74%（43/58）</td></tr>
+<tr><td><strong>广角策略</strong><br><span style="font-weight:normal;color:#94a3b8;font-size:0.8em;">336款</span></td><td class="num">45%</td><td class="num">17%</td><td class="num">$10.4M</td><td class="num">84/336</td></tr>
+<tr><td><strong>精选策略</strong><br><span style="font-weight:normal;color:#94a3b8;font-size:0.8em;">135款</span></td><td class="num">73%</td><td class="num">35%</td><td class="num">$36.4M</td><td class="num">71/135</td></tr>
+<tr><td><strong>高确信策略</strong><br><span style="font-weight:normal;color:#94a3b8;font-size:0.8em;">58款</span></td><td class="num">86%</td><td class="num">57%</td><td class="num">$83.3M</td><td class="num">43/58</td></tr>
 </tbody></table>
+</div>
 <p style="color:#94a3b8;font-size:0.8rem;margin-top:4px;">* Top-100 指 3,810 款样本池中，按（累计）营收排名前 100 的游戏（门槛约 $28.0M）。</p>
 
 <p>高确信策略中 <strong>86% 的游戏收入超过 $10M</strong>，过半超过 $50M，收入中位数达 <strong>$83.3M</strong>。即使是最宽松的广角策略，收入中位数也达到 $10.4M。这个结果好像也还不错？</p>
@@ -1346,7 +1348,8 @@ window.addEventListener('scroll', function() {
     },
     chart_threshold: {
       tooltip:{confine:true},
-      grid:{left:45,right:15,top:25,bottom:50}
+      grid:{left:45,right:15,top:45,bottom:75},
+      series:[{markLine:{label:{fontSize:7}}}]
     },
     chart_windows: {
       tooltip:{confine:true},
