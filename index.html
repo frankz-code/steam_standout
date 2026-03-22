@@ -1353,7 +1353,8 @@ window.addEventListener('scroll', function() {
     },
     chart_windows: {
       tooltip:{confine:true},
-      grid:{left:45,right:15,top:45,bottom:40},
+      grid:{left:45,right:15,top:40,bottom:40},
+      yAxis:{name:''},
       xAxis:{axisLabel:{fontSize:10}},
       series:[{label:{fontSize:8}},{label:{fontSize:8}}]
     },
@@ -1390,6 +1391,7 @@ window.addEventListener('scroll', function() {
     chart_windows: {
       tooltip:{confine:false},
       grid:{left:70,right:30,top:30,bottom:50},
+      yAxis:{name:'中位增速（人/天）'},
       xAxis:{axisLabel:{fontSize:12}},
       series:[{label:{fontSize:10}},{label:{fontSize:10}}]
     },
