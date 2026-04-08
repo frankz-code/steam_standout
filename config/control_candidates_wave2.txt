@@ -1,0 +1,154 @@
+# Control Group Candidates for NEW Success Titles (Wave 2)
+# Generated: 2026-03-19
+# Format: STEAM_ID | Name | Score | Revenue | Copies Sold | Release | Tags
+# Edit this file: remove lines you don't want, then I'll read it back
+
+## Slay the Spire 2 (2868840)
+# Revenue: $104,035,787 | Copies: 5,116,035 | Price: $24.99 | Release: 2026-03-05 00:00:00
+# Tags: 2D, Card Battler, Card Game, Co-op, Deckbuilding, Difficult, Dungeon Crawler, Early Access, Fantasy, Indie, Mouse only, Multiplayer, Procedural Generation, Replay Value, Roguelike, Roguelike Deckbuilder, Roguelite, Singleplayer, Strategy, Turn-Based Combat
+
+2824490 | He is Coming | 0.840 | $2,419,447 | 237,221 | 2025-07-17 | 2D, Card Battler, Card Game, Co-op, Deckbuilding, Difficult, Dungeon Crawler, Ea
+2289750 | Super Fantasy Kingdom | 0.785 | $2,985,773 | 304,012 | 2025-10-24 | 2D, Card Battler, Card Game, Deckbuilding, Difficult, Dungeon Crawler, Early Acc
+2784470 | 9 Kings | 0.701 | $9,257,216 | 990,896 | 2025-05-23 | 2D, Card Battler, Card Game, Casual, Deckbuilding, Difficult, Dungeon Crawler, E
+2118810 | Breachway | 0.658 | $899,715 | 65,158 | 2024-09-26 | 2D, Card Battler, Card Game, Casual, Deckbuilding, Difficult, Dungeon Crawler, E
+2842800 | Dream of Corpse Lady | 0.528 | $677,100 | 113,509 | 2026-01-11 | 2D, Adventure, Anime, Card Battler, Card Game, Deckbuilding, Fantasy, Female Pro
+2870340 | Decktamer | 0.526 | $1,162,932 | 100,703 | 2025-10-27 | 2D, Anime, Card Battler, Card Game, Cartoony, Controller, Creature Collector, De
+1201540 | HELLCARD | 0.523 | $4,749,748 | 332,238 | 2023-02-16 | Card Battler, Card Game, Co-op, Co-op Campaign, Deckbuilding, Difficult, Dungeon
+1755830 | Astrea: Six-Sided Oracles | 0.523 | $5,974,177 | 298,344 | 2023-09-21 | 2D, Card Battler, Card Game, Dark Fantasy, Deckbuilding, Dice, Difficult, Hand-d
+2288470 | Aethermancer | 0.518 | $2,253,187 | 123,277 | 2025-09-23 | 2D, Atmospheric, Creature Collector, Dark Fantasy, Difficult, Dungeon Crawler, E
+2742830 | Monster Train 2 | 0.499 | $9,306,543 | 480,144 | 2025-05-21 | Card Game, Choices Matter, Colorful, Deckbuilding, Demons, Difficult, Fantasy, I
+
+## Split Fiction (2001120)
+# Revenue: $110,634,711 | Copies: 2,902,856 | Price: $49.99 | Release: 2025-03-06 00:00:00
+# Tags: 3D Platformer, Action, Action-Adventure, Adventure, Co-op, Co-op Campaign, Fantasy, Female Protagonist, Funny, Local Co-Op, Local Multiplayer, Multiplayer, Online Co-Op, Platformer, Psychological Horror, Puzzle Platformer, Sci-fi, Split Screen, Story Rich, Third Person
+
+1934570 | South of Midnight | 0.515 | $3,030,529 | 85,247 | 2025-04-08 | 3D Platformer, Action, Action-Adventure, Adventure, Atmospheric, Combat, Control
+2169200 | Sniper Elite: Resistance | 0.493 | $6,944,264 | 177,560 | 2025-01-30 | Action, Action-Adventure, Adventure, Co-op, Gore, Military, Multiplayer, Open Wo
+3240220 | Grand Theft Auto V Enhanced | 0.471 | $175,910,851 | 12,013,119 | 2025-03-04 | Action, Adventure, Atmospheric, Automobile Sim, Co-op, Comedy, Crime, First-Pers
+2787320 | Revenge of the Savage Planet | 0.460 | $3,355,044 | 203,703 | 2025-05-08 | Action, Action-Adventure, Adventure, Co-op, Co-op Campaign, Colorful, Comedy, Ex
+2561580 | Horizon Zero Dawn™ Remastered | 0.458 | $12,853,238 | 334,935 | 2024-10-31 | Action, Action-Adventure, Adventure, Artificial Intelligence, Combat, Crafting, 
+3287520 | NINJA GAIDEN 2 Black | 0.450 | $4,433,753 | 124,622 | 2025-01-23 | Action, Action-Adventure, Adventure, Character Action Game, Combat, Difficult, G
+2492040 | FATAL FURY: City of the Wolves | 0.441 | $4,981,126 | 115,984 | 2025-04-22 | 2D, 2D Fighter, 3D, 3D Platformer, Action, Anime, Arcade, Cartoony, Classic, Com
+3061810 | Like a Dragon: Pirate Yakuza in Hawaii | 0.432 | $11,994,118 | 263,938 | 2025-02-20 | 3D, Action, Action RPG, Action-Adventure, Adventure, Character Customization, Ci
+2950340 | LEGO® Harry Potter™ Collection | 0.429 | $2,273,520 | 177,451 | 2024-10-08 | 3D, 3D Platformer, Action, Action-Adventure, Adventure, Casual, Co-op, Family Fr
+3035570 | Assassin's Creed Mirage | 0.423 | $8,989,798 | 475,451 | 2024-10-17 | Action, Action RPG, Action-Adventure, Adventure, Assassin, Atmospheric, Historic
+
+## Mewgenics (686060)
+# Revenue: $46,097,120 | Copies: 1,944,717 | Price: $29.99 | Release: 2026-02-10 00:00:00
+# Tags: 2D, Cartoony, Cats, Choices Matter, Comic Book, Cute, Dark Humor, Funny, Horror, Magic, Nonlinear, Post-apocalyptic, RPG, Roguelite, Sci-fi, Surreal, Tactical, Turn-Based Combat, Turn-Based Strategy, Turn-Based Tactics
+
+538030 | Xenonauts 2 | 0.624 | $4,061,019 | 150,724 | 2023-07-18 | 2D, Cartoony, Choices Matter, Comic Book, Cute, Dark Humor, Early Access, Funny,
+2432860 | MENACE | 0.458 | $5,679,980 | 202,907 | 2026-02-05 | Action, Adventure, CRPG, Character Customization, Choices Matter, Combat, Dark F
+2057760 | Esoteric Ebb | 0.422 | $2,792,907 | 131,764 | 2026-03-03 | Adventure, Atmospheric, CRPG, Character Customization, Choices Matter, Dungeons 
+3199650 | Pathologic 3 | 0.416 | $1,520,480 | 64,499 | 2026-01-09 | Adventure, Atmospheric, Choices Matter, Detective, Difficult, Dystopian, First-P
+2643390 | Star Trek: Voyager - Across the Unknown | 0.411 | $2,835,507 | 93,015 | 2026-02-18 | 3D, Aliens, Choices Matter, Choose Your Own Adventure, Combat, Drama, Exploratio
+3364070 | The Jackbox Party Pack 11 | 0.406 | $1,596,036 | 59,101 | 2025-10-23 | 2D, Board Game, Cartoony, Casual, Co-op, Colorful, Comedy, Cute, Family Friendly
+2893820 | Of Ash and Steel | 0.406 | $2,049,283 | 102,116 | 2025-11-24 | Action, Action RPG, Adventure, Atmospheric, Choices Matter, Combat, Crafting, Da
+3105890 | PIONER | 0.401 | $1,634,600 | 73,652 | 2025-12-16 | 3D, Action, Atmospheric, Cinematic, Crafting, Early Access, FPS, First-Person, L
+1588550 | Cairn | 0.393 | $9,109,270 | 379,369 | 2026-01-29 | Action-Adventure, Adventure, Atmospheric, Cinematic, Difficult, Exploration, Fem
+2753970 | MARVEL Cosmic Invasion | 0.393 | $2,161,993 | 88,993 | 2025-12-01 | 1990's, 2D, Action, Action-Adventure, Adventure, Arcade, Beat 'em up, Casual, Co
+
+## YAPYAP (3834090)
+# Revenue: $6,009,379 | Copies: 849,676 | Price: $9.99 | Release: 2026-02-03 00:00:00
+# Tags: Action, Action Roguelike, Co-op, Comedy, Dark Fantasy, Dungeon Crawler, Exploration, Fantasy, First-Person, Funny, Horror, Magic, Multiplayer, Online Co-Op, Physics, Procedural Generation, PvE, Stealth, Stylized, Survival Horror
+
+2956680 | LORT | 0.560 | $3,240,141 | 321,603 | 2026-01-21 | 3D, Action, Action Roguelike, Choices Matter, Co-op, Controller, Difficult, Earl
+4069520 | Super Battle Golf | 0.528 | $4,537,727 | 668,101 | 2026-02-19 | 3D, Action, Adventure, Character Customization, Co-op, Colorful, Comedy, Cute, E
+3376480 | Delivery & Beyond | 0.504 | $0 | 148,289 | 2026-01-27 | Action Roguelike, Adventure, Co-op, Comedy, Crime, First-Person, Free to Play, F
+3643170 | Roadside Research | 0.502 | $3,092,916 | 284,476 | 2026-02-12 | Aliens, America, Casual, Character Customization, Co-op, Comedy, Early Access, E
+2119830 | MISERY | 0.498 | $6,704,740 | 876,220 | 2025-10-23 | Action Roguelike, Adventure, Atmospheric, Base Building, Building, Co-op, Crafti
+2794590 | Scam Line | 0.474 | $297,474 | 82,726 | 2026-01-10 | 3D, Casual, Co-op, Dark, Early Access, First-Person, Funny, Horror, Indie, Multi
+3053950 | Dungeon Rampage | 0.473 | $495,205 | 76,822 | 2025-12-05 | 2.5D, Action, Action RPG, Cartoony, Casual, Co-op, Colorful, Combat, Controller,
+4082750 | Log Riders | 0.468 | $212,863 | 53,251 | 2026-02-12 | 3D, Adventure, Cartoon, Casual, Character Customization, Co-op, Funny, Indie, Lo
+3525970 | Horripilant | 0.463 | $379,531 | 54,482 | 2026-02-20 | 2D, Atmospheric, Auto Battler, Casual, Clicker, Dark Fantasy, Dungeon Crawler, E
+4249130 | Dino Crisis | 0.462 | $281,587 | 57,730 | 2026-02-12 | 3D, Action, Adventure, Classic, Dark, Dinosaurs, Female Protagonist, Gore, Horro
+
+## Kingdom Come: Deliverance II (1771300)
+# Revenue: $154,861,492 | Copies: 3,773,030 | Price: $59.99 | Release: 2025-02-04 00:00:00
+# Tags: 3D, Action, Action-Adventure, Adventure, Alternate History, Atmospheric, Choices Matter, Combat, First-Person, Historical, Immersive, LGBTQ+, Medieval, Open World, Political, RPG, Realistic, Singleplayer, Story Rich, Swordplay
+
+2651280 | Marvel's Spider-Man 2 | 0.597 | $45,265,316 | 922,819 | 2025-01-30 | Action, Action-Adventure, Adventure, Atmospheric, Beat 'em up, Combat, Comic Boo
+1643320 | S.T.A.L.K.E.R. 2: Heart of Chornobyl | 0.533 | $100,147,348 | 1,990,997 | 2024-11-20 | Action, Atmospheric, Choices Matter, Cinematic, Exploration, FPS, First-Person, 
+2677660 | Indiana Jones and the Great Circle | 0.529 | $26,260,722 | 444,347 | 2024-12-08 | 3D, 3D Platformer, Action, Action-Adventure, Adventure, Exploration, First-Perso
+3159330 | Assassin’s Creed Shadows | 0.509 | $52,814,086 | 1,045,810 | 2025-03-20 | 3D, Action, Action RPG, Action-Adventure, Adventure, Assassin, Cinematic, Combat
+3061810 | Like a Dragon: Pirate Yakuza in Hawaii | 0.497 | $11,994,118 | 263,938 | 2025-02-20 | 3D, Action, Action RPG, Action-Adventure, Adventure, Character Customization, Ci
+2842040 | Star Wars Outlaws | 0.492 | $10,720,285 | 347,220 | 2024-11-21 | Action, Action-Adventure, Adventure, Atmospheric, Choices Matter, Exploration, F
+1689620 | BLEACH Rebirth of Souls | 0.482 | $6,488,688 | 126,608 | 2025-03-20 | 3D, 3D Fighter, Action, Anime, Combat, Comic Book, Dark Fantasy, Drama, Fighting
+3035570 | Assassin's Creed Mirage | 0.481 | $8,989,798 | 475,451 | 2024-10-17 | Action, Action RPG, Action-Adventure, Adventure, Assassin, Atmospheric, Historic
+3008130 | Dying Light: The Beast | 0.476 | $76,948,174 | 1,581,068 | 2025-09-18 | Action, Action RPG, Action-Adventure, Adventure, Co-op Campaign, Combat, Explora
+1845910 | Dragon Age™: The Veilguard | 0.475 | $32,952,174 | 677,428 | 2024-10-31 | Action, Action RPG, Adventure, CRPG, Character Customization, Choices Matter, Dr
+
+## Dispatch (2592160)
+# Revenue: $70,678,715 | Copies: 2,794,292 | Price: $29.99 | Release: 2025-10-22 00:00:00
+# Tags: Action, Adventure, Atmospheric, Choices Matter, Choose Your Own Adventure, Cinematic, Comedy, Comic Book, Episodic, Funny, Indie, Nudity, Point & Click, Romance, Sexual Content, Singleplayer, Story Rich, Strategy, Superhero, Visual Novel
+
+2893820 | Of Ash and Steel | 0.509 | $2,049,283 | 102,116 | 2025-11-24 | Action, Action RPG, Adventure, Atmospheric, Choices Matter, Combat, Crafting, Da
+2201320 | Date Everything! | 0.505 | $9,508,784 | 364,076 | 2025-06-17 | Abstract, Anime, Cartoony, Casual, Choose Your Own Adventure, Colorful, Comedy, 
+436780 | Tavern Keeper 🍻 | 0.499 | $3,335,377 | 147,384 | 2025-11-03 | Building, Casual, Choose Your Own Adventure, Colorful, Early Access, Economy, Fa
+3731020 | Five Hearts Under One Roof season2 | 0.488 | $1,117,999 | 64,092 | 2025-11-19 | Adventure, Choices Matter, Choose Your Own Adventure, Dating Sim, Drama, Emotion
+3101040 | Magical Girl Witch Trials | 0.475 | $9,687,120 | 490,251 | 2025-07-18 | Adventure, Anime, Choices Matter, Choose Your Own Adventure, Cute, Detective, Fe
+2878450 | Master of Command | 0.464 | $2,453,020 | 90,255 | 2025-10-27 | 3D, Action, America, Combat, Historical, Indie, Management, Military, Open World
+1920780 | Stray Gods: The Roleplaying Musical | 0.457 | $2,538,205 | 104,236 | 2023-08-09 | Adventure, Atmospheric, Choices Matter, Choose Your Own Adventure, Cinematic, Co
+1588550 | Cairn | 0.452 | $9,109,270 | 379,369 | 2026-01-29 | Action-Adventure, Adventure, Atmospheric, Cinematic, Difficult, Exploration, Fem
+606160 | ROUTINE | 0.449 | $2,321,667 | 111,144 | 2025-12-04 | 3D, Action, Adventure, Aliens, Atmospheric, Cinematic, Dark, Exploration, First-
+3364070 | The Jackbox Party Pack 11 | 0.448 | $1,596,036 | 59,101 | 2025-10-23 | 2D, Board Game, Cartoony, Casual, Co-op, Colorful, Comedy, Cute, Family Friendly
+
+## Megabonk (3405340)
+# Revenue: $32,205,105 | Copies: 3,977,533 | Price: $9.99 | Release: 2025-09-18 00:00:00
+# Tags: 3D, Action, Action Roguelike, Arcade, Bullet Hell, Casual, Controller, Hack and Slash, Indie, Loot, Old School, Pixel Graphics, Retro, Roguelike, Roguelite, Score Attack, Singleplayer, Survival, Third Person, Third-Person Shooter
+
+2934220 | Monsters are Coming! Rock & Road | 0.586 | $1,357,519 | 189,276 | 2025-11-20 | Action, Action Roguelike, Arcade, Base Building, Building, Bullet Hell, City Bui
+3265060 | Touhou Dystopian | 0.558 | $344,800 | 50,954 | 2025-10-17 | 3D, Action, Action Roguelike, Adventure, Anime, Colorful, Combat, Cute, Dystopia
+3339780 | Desktop Survivors 98 | 0.540 | $287,689 | 61,564 | 2025-05-20 | 1990's, 2D, Action, Action Roguelike, Bullet Hell, Casual, Combat, Dungeon Crawl
+3503440 | Astro Prospector | 0.531 | $556,684 | 133,194 | 2025-07-14 | 2D, Action Roguelike, Arcade, Bullet Hell, Capitalism, Casual, Clicker, Combat, 
+3419290 | GOD FORSAKEN | 0.529 | $632,897 | 72,912 | 2025-10-22 | 1990's, 3D, Action, Action Roguelike, Adventure, Beat 'em up, Bullet Hell, Choic
+2225960 | Noobs Are Coming | 0.525 | $675,677 | 135,972 | 2025-07-15 | 2D, Action, Action Roguelike, Arcade, Arena Shooter, Bullet Hell, Cartoony, Casu
+3314790 | CloverPit | 0.523 | $12,994,757 | 1,566,219 | 2025-09-26 | 3D, Action, Adventure, Dark, Dark Humor, First-Person, Gambling, Horror, Indie, 
+3631290 | Slots & Daggers | 0.517 | $1,471,043 | 249,461 | 2025-10-24 | 1990's, 2D, Atmospheric, Card Battler, Casual, Dark Fantasy, Deckbuilding, Gambl
+2086430 | NIMRODS | 0.511 | $1,117,921 | 131,084 | 2024-10-28 | 2D, Action, Action RPG, Action Roguelike, Arcade, Bullet Hell, Casual, Controlle
+2922410 | Achilles: Survivor | 0.510 | $414,329 | 86,352 | 2025-01-29 | 3D, Action, Action Roguelike, Arcade, Building, Bullet Hell, Casual, Controller,
+
+## Hollow Knight: Silksong (1030300)
+# Revenue: $83,731,690 | Copies: 5,230,888 | Price: $19.99 | Release: 2025-09-04 00:00:00
+# Tags: 2D, Action, Adventure, Atmospheric, Beautiful, Cute, Difficult, Exploration, Female Protagonist, Great Soundtrack, Hand-drawn, Indie, Metroidvania, Multiple Endings, Open World, Platformer, Sequel, Singleplayer, Souls-like, Story Rich
+
+3639650 | Kotama and Academy Citadel | 0.528 | $692,054 | 50,177 | 2026-01-14 | 2D, 3D Vision, Action, Action RPG, Action-Adventure, Adventure, Anime, Drama, Ex
+2542120 | NINJA GAIDEN: Ragebound | 0.522 | $1,494,846 | 76,770 | 2025-07-31 | 2D, 2D Platformer, Action, Adventure, Difficult, Gore, Hack and Slash, Indie, Ma
+2885870 | Strange Antiquities | 0.507 | $1,633,611 | 105,410 | 2025-09-17 | 2D, Adventure, Atmospheric, Cats, Choices Matter, Cozy, Dark, Detective, Explora
+3755860 | BLACK SOULS | 0.499 | $1,732,223 | 174,011 | 2025-08-15 | 2D, Adventure, Anime, Choices Matter, Cute, Dark, Dark Fantasy, Exploration, Fan
+2427420 | S.T.A.L.K.E.R.: Clear Sky - Enhanced Edition | 0.491 | $2,418,091 | 146,228 | 2025-05-20 | Action, Adventure, Atmospheric, Choices Matter, Exploration, FPS, First-Person, 
+2589500 | Whisper of the House | 0.490 | $2,537,478 | 211,414 | 2025-08-27 | 2D, Atmospheric, Casual, Colorful, Cozy, Cute, Exploration, Hidden Object, Immer
+3339880 | OFF | 0.483 | $807,662 | 63,383 | 2025-08-15 | 2D, Atmospheric, Baseball, Cats, Combat, Cult Classic, Dark, Great Soundtrack, H
+2288470 | Aethermancer | 0.482 | $2,253,187 | 123,277 | 2025-09-23 | 2D, Atmospheric, Creature Collector, Dark Fantasy, Difficult, Dungeon Crawler, E
+1839430 | Dolls Nest | 0.481 | $1,074,761 | 62,955 | 2025-04-23 | 3D, Action, Action RPG, Anime, Atmospheric, Character Customization, Cute, Explo
+2678640 | Journey of Realm：Dawn Dew | 0.478 | $455,789 | 64,590 | 2025-08-13 | 2D, 2D Platformer, Anime, Cartoon, Cartoony, Cute, Drama, Fantasy, Female Protag
+
+## Hogwarts Legacy (990080)
+# Revenue: $406,044,310 | Copies: 11,864,529 | Price: $59.99 | Release: 2023-02-10 05:00:00
+# Tags: Action, Action RPG, Action-Adventure, Adventure, Atmospheric, Character Customization, Choices Matter, Combat, Dark, Exploration, Family Friendly, Fantasy, Great Soundtrack, Magic, Open World, Puzzle, RPG, Singleplayer, Story Rich, Third Person
+
+1546990 | Grand Theft Auto: Vice City – The Definitive Edition | 0.595 | $12,119,036 | 496,118 | 2023-01-19 | 1980s, Action, Action-Adventure, Adventure, Atmospheric, Classic, Combat, Crime,
+1971650 | OCTOPATH TRAVELER II | 0.592 | $22,057,819 | 629,293 | 2023-02-24 | 2.5D, Adventure, Anime, Atmospheric, Casual, Choices Matter, Cute, Fantasy, Grea
+1680880 | Forspoken | 0.581 | $7,173,786 | 170,861 | 2023-01-24 | Action, Action RPG, Adventure, Atmospheric, Cinematic, Dark, Exploration, Fantas
+1774580 | STAR WARS Jedi: Survivor™ | 0.581 | $59,969,542 | 2,092,798 | 2023-04-27 | Action, Action-Adventure, Adventure, Atmospheric, Character Customization, Comba
+668580 | Atomic Heart | 0.569 | $52,309,807 | 1,779,984 | 2023-02-20 | Action, Action-Adventure, Adventure, Alternate History, Atmospheric, Cyberpunk, 
+1546970 | Grand Theft Auto III – The Definitive Edition | 0.549 | $8,909,515 | 363,735 | 2023-01-19 | Action, Action-Adventure, Adventure, Classic, Combat, Crime, Open World, Sexual 
+1805480 | Like a Dragon: Ishin! | 0.544 | $8,941,359 | 287,883 | 2023-02-21 | Action, Action RPG, Action-Adventure, Adventure, Beat 'em up, Comedy, Funny, Gor
+1693980 | Dead Space | 0.542 | $53,035,855 | 2,026,237 | 2023-01-27 | Action, Action-Adventure, Adventure, Aliens, Atmospheric, Blood, Combat, Dark, H
+2239550 | Watch Dogs®: Legion | 0.542 | $5,755,127 | 653,349 | 2023-01-26 | Action, Action-Adventure, Adventure, Choose Your Own Adventure, Co-op, Cyberpunk
+1547000 | Grand Theft Auto: San Andreas – The Definitive Edition | 0.538 | $16,320,432 | 643,537 | 2023-01-19 | 1990's, Action, Action-Adventure, Adventure, Classic, Combat, Crime, Gore, Matur
+
+## Heartopia (4025700)
+# Revenue: $7,566,345 | Copies: 1,231,499 | Price: $0.0 | Release: 2026-01-18 02:08:12.422000
+# Tags: 3D Platformer, Artificial Intelligence, Atmospheric, Cartoony, Casual, Character Customization, City Builder, Cozy, Cute, Free to Play, Funny, Immersive Sim, Life Sim, Multiplayer, Nature, Realistic, Relaxing, Simulation, Singleplayer, Third Person
+
+4147820 | Your Mom | 0.554 | $143,624 | 207,139 | 2025-12-25 | 3D, Anime, CRPG, Cartoon, Cartoony, Casual, Cozy, Cute, Female Protagonist, Hent
+4015530 | MyVoiceZoo | 0.539 | $727,856 | 305,601 | 2025-09-25 | 2D, Cartoony, Casual, Character Customization, Comedy, Cozy, Creature Collector,
+3687810 | 时光超市 | 0.537 | $0 | 56,312 | 2026-03-05 | 2.5D, Building, Cartoony, Casual, Cute, Free to Play, Isometric, Relaxing, Simul
+3821150 | Burger Shift: Team Rush: Prologue | 0.531 | $0 | 199,857 | 2025-10-22 | 3D, Artificial Intelligence, Atmospheric, Character Customization, Co-op, Cookin
+3555430 | Money Simulator: Brokeville | 0.523 | $0 | 120,134 | 2025-11-29 | Atmospheric, Building, Capitalism, Casual, Co-op, Driving, Economy, First-Person
+3271000 | SEGA FOOTBALL CLUB CHAMPIONS | 0.519 | $807,667 | 74,572 | 2026-01-21 | 2D, 3D, Asynchronous Multiplayer, Character Customization, Controller, Football 
+4212340 | 100 Radioactive Cats | 0.508 | $0 | 78,234 | 2025-12-14 | Cartoony, Casual, Cats, Collectathon, Cozy, Creature Collector, Cute, Exploratio
+3715020 | Ye Guild Clerk! | 0.506 | $0 | 66,258 | 2025-10-29 | 2.5D, Cartoony, Casual, Choices Matter, Choose Your Own Adventure, Cozy, Cute, F
+3354750 | skate. | 0.482 | $6,020,891 | 5,161,673 | 2025-09-16 | Action, Character Customization, Controller, Early Access, Exploration, Free to 
+4082750 | Log Riders | 0.481 | $212,863 | 53,251 | 2026-02-12 | 3D, Adventure, Cartoon, Casual, Character Customization, Co-op, Funny, Indie, Lo

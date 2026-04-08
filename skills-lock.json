@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "skills": {
+    "md2wechat": {
+      "source": "geekjourneyx/md2wechat-skill",
+      "sourceType": "github",
+      "computedHash": "a6a12e5bc51688b82cf43b7d19d208c4b7a360b47563742c9e758335b4f47f2d"
+    }
+  }
+}

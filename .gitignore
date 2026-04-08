@@ -1,0 +1,24 @@
+# Data (715MB — regenerated via pipeline, requires Gamalytic API)
+data/
+
+# Generated output (regenerated via 10_generate_report.py)
+output/
+report_backup.html
+
+# Secrets
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+
+# Claude Code local state
+.claude/
+.remember/
+.playwright-mcp/
+.firecrawl/

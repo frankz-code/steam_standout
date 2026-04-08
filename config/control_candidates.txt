@@ -1,0 +1,319 @@
+# Control Group Candidates — Edit this file, then save
+# FILTERED: Only games with > 50,000 copies sold
+# For each success game, top 10 similar games are listed.
+# DELETE any line you want to remove. Keep the ones you want as controls.
+# Lines starting with # are ignored.
+# Format: STEAM_ID | Name | Score | Revenue | Copies Sold | Release | Tags
+
+## ARC Raiders (ID:1808500)
+## Tags: Action, Atmospheric, Character Customization, Combat, Crafting, Extraction Shooter, Futuristic, Inventory Management
+## Price: $39.99  |  Release: 2025-10-30  |  Revenue: $299.5M
+
+2523720 | Gears of War: Reloaded | 0.528 | $3.7M | 108,099 copies | 2025-08-26 | Action, Shooter, Third-Person Shooter, Third Person, Realistic
+3065800 | Marathon | 0.517 | $29.8M | 807,480 copies | 2026-03-05 | Extraction Shooter, PvP, Multiplayer, Sci-fi, Shooter
+2373990 | Solo Leveling: ARISE OVERDRIVE | 0.499 | $8.6M | 245,973 copies | 2025-11-24 | Action, Anime, Action RPG, Online Co-Op, Combat
+1430190 | Killing Floor 3 | 0.465 | $14.3M | 408,596 copies | 2025-07-24 | FPS, Co-op, Zombies, PvE, Shooter
+1556100 | Killer Klowns From Outer Space: The Game | 0.457 | $2.2M | 64,866 copies | 2024-06-04 | Multiplayer, Horror, Survival Horror, Team-Based, Violent
+1880620 | Once Upon A KATAMARI | 0.445 | $2.0M | 56,962 copies | 2025-10-23 | Action, 3D, Adventure, Singleplayer, Historical
+1392860 | Little Nightmares III | 0.443 | $17.0M | 540,978 copies | 2025-10-09 | Co-op, Adventure, Horror, Multiplayer, Puzzle
+3656800 | Train Sim World® 6 | 0.433 | $4.9M | 150,307 copies | 2025-09-30 | Simulation, Trains, Transportation, Immersive Sim, Automobile Sim
+1783560 | The Last Caretaker | 0.419 | $8.7M | 279,990 copies | 2025-11-06 | Early Access, Survival, Open World, Base Building, Crafting
+3215050 | Surviving Mars: Relaunched | 0.419 | $2.3M | 66,188 copies | 2025-11-10 | Simulation, Strategy, Colony Sim, City Builder, Exploration
+
+## PEAK (ID:3527290)
+## Tags: 3D, Action, Action Roguelike, Adventure, Atmospheric, Character Customization, Co-op, Comedy
+## Price: $7.99  |  Release: 2025-06-16  |  Revenue: $95.5M
+
+3645890 | GONE Fishing | 0.590 | $2.0M | 234,818 copies | 2025-06-15 | Action, Adventure, Horror, Fishing, Multiplayer
+2835530 | Backrooms: Extractions | 0.528 | $487K | 83,626 copies | 2025-04-30 | Multiplayer, Horror, Online Co-Op, Psychological Horror, Survival Horror
+3114900 | Dread Flats | 0.508 | $266K | 59,713 copies | 2025-07-10 | Horror, Adventure, Supernatural, Psychological Horror, Mystery
+1953230 | Whisper Mountain Outbreak | 0.488 | $770K | 120,351 copies | 2025-08-11 | Early Access, Survival Horror, Online Co-Op, Isometric, 2.5D
+3575300 | Climb The Backrooms | 0.472 | $222K | 50,056 copies | 2025-07-11 | Adventure, Casual, Platformer, Puzzle, 3D Platformer
+3672720 | Prison Escape Simulator: Dig Out | 0.467 | $1.1M | 260,792 copies | 2025-07-25 | Simulation, Exploration, Life Sim, Crime, Immersive Sim
+3176060 | Emissary Zero | 0.465 | $1.6M | 220,406 copies | 2025-03-28 | Horror, Multiplayer, Online Co-Op, Psychological Horror, Co-op
+3062930 | Unplagued | 0.457 | $1.2M | 185,149 copies | 2024-10-10 | Online Co-Op, Horror, Multiplayer, First-Person, Exploration
+619540 | Darkwater | 0.449 | $448K | 58,523 copies | 2025-04-22 | Early Access, Online Co-Op, Horror, Survival, Submarine
+3298460 | Pushing it! Together - Sisyphus Co-op | 0.439 | $306K | 75,491 copies | 2025-04-09 | Casual, Adventure, Simulation, Action, Strategy
+
+## RV There Yet? (ID:3949040)
+## Tags: 3D, Action, Adventure, Atmospheric, Casual, Character Customization, Co-op, Controller
+## Price: $7.99  |  Release: 2025-10-21  |  Revenue: $38.3M
+
+2918500 | Cozy Island | 0.604 | $1.3M | 217,589 copies | 2025-09-21 | Multiplayer, Casual, Life Sim, Farming Sim, Adventure
+3558400 | Backseat Drivers | 0.570 | $572K | 77,968 copies | 2025-10-10 | Racing, Driving, Physics, PvP, Co-op
+3417410 | Storebound | 0.544 | $411K | 65,588 copies | 2025-11-17 | Early Access, Co-op, Puzzle, Horror, Exploration
+2747330 | Species: Unknown | 0.532 | $2.3M | 254,801 copies | 2025-10-23 | Early Access, Horror, Online Co-Op, First-Person, Atmospheric
+2827200 | MIMESIS | 0.528 | $8.4M | 1,143,826 copies | 2025-10-27 | Early Access, Online Co-Op, Horror, Funny, Psychological Horror
+3981100 | Leaf it Alone | 0.507 | $1.1M | 199,235 copies | 2025-10-30 | Simulation, Casual, Relaxing, Indie, Singleplayer
+2692990 | DON'T SCREAM TOGETHER | 0.502 | $1.6M | 289,801 copies | 2025-12-03 | Horror, Online Co-Op, Multiplayer, Survival Horror, Co-op
+3062930 | Unplagued | 0.489 | $1.2M | 185,149 copies | 2024-10-10 | Online Co-Op, Horror, Multiplayer, First-Person, Exploration
+2524930 | We Escaped a Twisted Game | 0.487 | $198K | 52,939 copies | 2025-10-24 | Puzzle, Online Co-Op, Escape Room, Horror, Atmospheric
+3585800 | Keep Digging | 0.471 | $1.5M | 359,843 copies | 2025-09-12 | Simulation, Exploration, Mining, Sandbox, Online Co-Op
+
+## Where Winds Meet (ID:3564740)
+## Tags: 3D, Action, Action RPG, Action-Adventure, Adventure, Alternate History, Atmospheric, Free to Play
+## Price: $0.0  |  Release: 2025-11-14  |  Revenue: $119.7M
+
+2782500 | SWORD OF JUSTICE | 0.619 | $557K | 97,207 copies | 2025-11-06 | RPG, MMORPG, Free to Play, Open World, Story Rich
+3616890 | Blade & Soul Heroes | 0.571 | $195K | 54,682 copies | 2025-09-24 | Free to Play, MMORPG, Action, Team-Based, Turn-Based Strategy
+3681810 | Blue Protocol: Star Resonance | 0.560 | $15.9M | 1,149,714 copies | 2025-10-09 | Anime, Action, MMORPG, Free to Play, Adventure
+1446890 | Shadow Fight Arena | 0.556 | $139K | 104,721 copies | 2025-10-29 | Early Access, Fighting, Action, 2D Fighter, Martial Arts
+3679080 | The Seven Deadly Sins: Origin | 0.553 | $0K | 211,146 copies | 2026-03-16 | Open World, Anime, Free to Play, Action, Adventure
+3717330 | Yakuza Kiwami | 0.530 | $89K | 51,821 copies | 2025-12-11 | Action, Adventure, RPG, Action-Adventure, Beat 'em up
+3553650 | Dream Slayers | 0.527 | $0K | 92,569 copies | 2025-11-14 | Early Access, Adventure, RPG, Dungeon Crawler, Extraction Shooter
+4124950 | Ashes of Creation | 0.520 | $4.9M | 308,299 copies | 2025-12-11 | RPG, MMORPG, Adventure, Action, Exploration
+2951690 | Sonic Rumble Party | 0.502 | $728K | 219,324 copies | 2025-11-05 | Action, Battle Royale, Multiplayer, 3D, PvP
+2371630 | Sword Art Online: Integral Factor | 0.500 | $1.4M | 223,441 copies | 2023-08-21 | RPG, Action, Adventure, MMORPG, Anime
+
+## Clair Obscur: Expedition 33 (ID:1903340)
+## Tags: 3D, Action, Action RPG, Adventure, Character Customization, Dark Fantasy, Exploration, Fantasy
+## Price: $49.99  |  Release: 2025-04-24  |  Revenue: $186.2M
+
+2623190 | The Elder Scrolls IV: Oblivion Remastered | 0.598 | $118.0M | 2,606,076 copies | 2025-04-22 | RPG, Open World, Fantasy, Singleplayer, Adventure
+2457220 | Avowed | 0.502 | $17.2M | 286,055 copies | 2025-02-18 | RPG, Fantasy, Singleplayer, First-Person, Story Rich
+1340990 | Rise of the Ronin | 0.500 | $8.6M | 240,640 copies | 2025-03-10 | RPG, Open World, Action RPG, Swordplay, Action
+2277560 | WUCHANG: Fallen Feathers | 0.500 | $26.9M | 744,807 copies | 2025-07-23 | Souls-like, Female Protagonist, Action RPG, Difficult, Hack and Slash
+801800 | Atomfall | 0.496 | $6.9M | 171,220 copies | 2025-03-27 | Action, Adventure, Open World, Singleplayer, First-Person
+2414270 | Sunderfolk | 0.485 | $3.1M | 78,188 copies | 2025-04-23 | Tactical RPG, Turn-Based Tactics, Fantasy, PvE, Party-Based RPG
+2909400 | FINAL FANTASY VII REBIRTH | 0.473 | $31.6M | 759,659 copies | 2025-01-23 | RPG, Action, Adventure, JRPG, Singleplayer
+1932640 | Suikoden I&II HD Remaster Gate Rune and Dunan Unification Wars | 0.473 | $3.0M | 68,528 copies | 2025-03-06 | RPG, JRPG, Pixel Graphics, 2D, Story Rich
+2531310 | The Last of Us™ Part II Remastered | 0.462 | $38.6M | 966,810 copies | 2025-04-03 | Story Rich, Post-apocalyptic, Third-Person Shooter, Action-Adventure, LGBTQ+
+1172710 | Dune: Awakening | 0.454 | $73.0M | 1,658,432 copies | 2025-06-10 | Open World Survival Craft, Survival, Adventure, Open World, RPG
+
+## Marvel Rivals (ID:2767030)
+## Tags: 3D, Action, Co-op, Competitive, FPS, Free to Play, Hero Shooter, MOBA
+## Price: $0.0  |  Release: 2024-12-05  |  Revenue: $330.9M
+
+1282270 | Strinova | 0.708 | $17.4M | 1,722,753 copies | 2024-11-21 | Free to Play, Anime, Third-Person Shooter, Hero Shooter, FPS
+2507950 | Delta Force | 0.599 | $82.2M | 15,563,559 copies | 2024-12-04 | Free to Play, FPS, Multiplayer, Extraction Shooter, Shooter
+2943650 | FragPunk | 0.588 | $24.1M | 4,712,099 copies | 2025-03-06 | Free to Play, FPS, Hero Shooter, Multiplayer, Action
+2357570 | Overwatch® | 0.560 | $94.2M | 16,374,117 copies | 2023-08-10 | Free to Play, Hero Shooter, FPS, Multiplayer, Team-Based
+3199170 | Blood Strike | 0.547 | $5.3M | 1,992,528 copies | 2024-10-18 | Action, Battle Royale, Shooter, FPS, Multiplayer
+2719940 | The Bonerooms | 0.534 | $15K | 707,185 copies | 2024-10-30 | Horror, Multiplayer, Free to Play, First-Person, Action
+2386720 | STRAFTAT | 0.503 | $1.0M | 1,405,938 copies | 2024-10-24 | Action, Shooter, FPS, PvP, Free to Play
+3393620 | Double Shoulders | 0.490 | $0K | 134,511 copies | 2025-02-01 | Action, Local Co-Op, Survival Horror, Adventure, Multiplayer
+1607250 | MY HERO ULTRA RUMBLE | 0.489 | $14.6M | 2,712,513 copies | 2023-09-28 | Anime, Free to Play, Battle Royale, Multiplayer, PvP
+2437170 | SMITE 2 | 0.489 | $19.6M | 1,645,139 copies | 2024-08-27 | Early Access, MOBA, Action, Third Person, Strategy
+
+## Dark and Darker (ID:2016590)
+## Tags: Battle Royale, Class-Based, Dark, Dungeon Crawler, Early Access, Exploration, Extraction Shooter, Fantasy
+## Price: $0.0  |  Release: 2024-06-07  |  Revenue: $21.3M
+
+716350 | Reign of Guilds | 0.529 | $260K | 50,909 copies | 2024-04-04 | RPG, Open World, Medieval, Multiplayer, PvP
+2468730 | Dungeon Stalkers | 0.489 | $654K | 213,275 copies | 2025-08-12 | Extraction Shooter, Dungeon Crawler, PvP, Loot, PvE
+2484250 | ASTRA: Knights of Veda | 0.476 | $3.8M | 298,020 copies | 2024-04-01 | RPG, Action, Action RPG, Side Scroller, 2D
+2811830 | Ocean World: Eden Crafters Prologue | 0.467 | $0K | 526,499 copies | 2024-06-24 | Multiplayer, Open World Survival Craft, Base Building, Open World, Online Co-Op
+2410490 | Sneak Out | 0.466 | $49K | 1,060,101 copies | 2024-06-06 | Arcade, Adventure, 3D, Multiplayer, Free to Play
+2456080 | Formula Evolution 2024 | 0.462 | $0K | 55,463 copies | 2024-06-03 | Early Access, Racing, Action, Massively Multiplayer, Casual
+3064370 | Dark Hours: Prologue | 0.461 | $0K | 1,845,727 copies | 2024-07-18 | Horror, Multiplayer, Online Co-Op, Survival Horror, Funny
+2398450 | Classic Marathon | 0.455 | $0K | 96,873 copies | 2024-05-10 | FPS, Shooter, PvP, First-Person, PvE
+2870840 | Ale & Tale Tavern: First Pints | 0.452 | $0K | 546,162 copies | 2024-06-20 | Simulation, Action, Sandbox, Action-Adventure, Immersive Sim
+3017120 | Egg Surprise | 0.452 | $11K | 129,104 copies | 2024-06-20 | Time Management, Clicker, Creature Collector, Hidden Object, City Builder
+
+## Black Myth: Wukong (ID:2358720)
+## Tags: 3D, Action, Action RPG, Action-Adventure, Adventure, Atmospheric, Combat, Dark Fantasy
+## Price: $59.99  |  Release: 2024-08-19  |  Revenue: $693.7M
+
+2322010 | God of War Ragnarök | 0.766 | $55.4M | 1,156,801 copies | 2024-09-19 | Action, Adventure, Action-Adventure, RPG, Hack and Slash
+2490990 | Visions of Mana | 0.563 | $3.6M | 72,420 copies | 2024-08-29 | RPG, JRPG, Party-Based RPG, Action RPG, 3D
+2552450 | KINGDOM HEARTS III + Re Mind (DLC) | 0.561 | $6.4M | 159,594 copies | 2024-06-13 | Action, Adventure, RPG, Singleplayer, Action RPG
+2903950 | Master Detective Archives: RAIN CODE Plus | 0.529 | $2.1M | 62,638 copies | 2024-07-17 | Adventure, Exploration, Anime, Detective, Action-Adventure
+2680010 | The First Berserker: Khazan | 0.523 | $31.4M | 647,982 copies | 2025-03-27 | Souls-like, Difficult, Hack and Slash, Anime, Action RPG
+2215430 | Ghost of Tsushima DIRECTOR'S CUT | 0.522 | $116.6M | 2,467,835 copies | 2024-05-16 | Open World, Action, Story Rich, Singleplayer, Adventure
+2183900 | Warhammer 40,000: Space Marine 2 | 0.504 | $210.2M | 5,038,201 copies | 2024-09-09 | Warhammer 40K, Action, Co-op, Third-Person Shooter, Multiplayer
+1858630 | SWORD ART ONLINE Fractured Daydream | 0.500 | $4.7M | 90,821 copies | 2024-10-03 | Action, RPG, Multiplayer, Action RPG, Anime
+1627720 | Lies of P | 0.489 | $66.2M | 1,802,068 copies | 2023-09-18 | Souls-like, Dark Fantasy, Action, Singleplayer, Action RPG
+1875830 | Shin Megami Tensei V: Vengeance | 0.476 | $17.3M | 444,179 copies | 2024-06-13 | JRPG, RPG, Story Rich, Demons, Creature Collector
+
+## Palworld (ID:1623730)
+## Tags: Action, Adventure, Automation, Base Building, Building, Co-op, Crafting, Creature Collector
+## Price: $29.99  |  Release: 2024-01-18  |  Revenue: $431.2M
+
+1928980 | Nightingale | 0.686 | $11.7M | 596,975 copies | 2024-02-20 | Early Access, Open World Survival Craft, Multiplayer, Survival, Open World
+2313330 | TerraTech Worlds | 0.618 | $2.0M | 75,749 copies | 2024-03-22 | Early Access, Base Building, Open World Survival Craft, Sandbox, Co-op
+1519090 | Welcome to ParadiZe | 0.610 | $1.0M | 54,433 copies | 2024-02-29 | Action, Zombies, Multiplayer, Co-op, Singleplayer
+1159690 | Voidtrain | 0.560 | $13.4M | 648,037 copies | 2023-05-09 | Open World Survival Craft, Co-op, Trains, Multiplayer, Survival
+1374490 | RuneScape: Dragonwilds | 0.560 | $30.5M | 1,120,902 copies | 2025-04-15 | Open World, Survival, Open World Survival Craft, Multiplayer, Co-op
+983870 | FOUNDRY | 0.541 | $7.2M | 313,138 copies | 2024-05-02 | Base Building, Automation, Open World, Multiplayer, Crafting
+2661300 | Grounded 2 | 0.523 | $27.0M | 1,050,852 copies | 2025-07-29 | Survival, Multiplayer, Action, Adventure, Base Building
+1812450 | Bellwright | 0.521 | $23.2M | 961,578 copies | 2024-04-23 | Survival, Open World, Medieval, City Builder, Crafting
+1458140 | Pacific Drive | 0.512 | $21.1M | 1,074,831 copies | 2024-02-21 | Driving, Survival, Story Rich, Exploration, Survival Horror
+850190 | Goat Simulator 3 | 0.496 | $7.8M | 611,944 copies | 2024-02-15 | Physics, Sandbox, Exploration, Open World, Simulation
+
+## HELLDIVERS 2 (ID:553850)
+## Tags: Action, Capitalism, Co-op, Comedy, Difficult, Extraction Shooter, Gore, Great Soundtrack
+## Price: $39.99  |  Release: 2024-02-08  |  Revenue: $470.9M
+
+881020 | Granblue Fantasy: Relink | 0.497 | $71.9M | 1,747,933 copies | 2024-01-31 | Anime, Action RPG, JRPG, Online Co-Op, Action
+2477340 | Expeditions: A MudRunner Game | 0.457 | $6.6M | 223,791 copies | 2024-03-05 | Moddable, Multiplayer, Nature, Singleplayer, Driving
+315210 | Suicide Squad: Kill the Justice League | 0.450 | $8.8M | 563,218 copies | 2024-02-02 | Capitalism, Online Co-Op, Superhero, Looter Shooter, Action
+2479810 | Gray Zone Warfare | 0.436 | $38.5M | 1,173,492 copies | 2024-04-30 | FPS, Tactical, Realistic, Extraction Shooter, Simulation
+2399420 | Le Mans Ultimate | 0.427 | $13.6M | 410,800 copies | 2024-02-20 | Racing, Automobile Sim, Driving, Multiplayer, Realistic
+1556100 | Killer Klowns From Outer Space: The Game | 0.420 | $2.2M | 64,866 copies | 2024-06-04 | Multiplayer, Horror, Survival Horror, Team-Based, Violent
+1310410 | Alone in the Dark | 0.403 | $2.6M | 94,151 copies | 2024-03-20 | Psychological Horror, Lovecraftian, Horror, Action, Adventure
+2379390 | Tom Clancy’s Rainbow Six® Extraction | 0.400 | $2.1M | 207,766 copies | 2023-06-15 | FPS, Action, Online Co-Op, PvE, Shooter
+1681430 | RoboCop: Rogue City | 0.397 | $14.9M | 1,095,237 copies | 2023-11-02 | FPS, Action, Singleplayer, First-Person, Cyberpunk
+1190970 | House Flipper 2 | 0.386 | $38.2M | 1,255,678 copies | 2023-12-14 | Simulation, Building, Co-op, Relaxing, Design & Illustration
+
+## Lethal Company (ID:1966720)
+## Tags: Action, Action-Adventure, Adventure, Aliens, Atmospheric, Co-op, Dungeon Crawler, Early Access
+## Price: $9.99  |  Release: 2023-10-23  |  Revenue: $146.3M
+
+2823080 | Sketchy's Contract | 0.636 | $539K | 69,363 copies | 2024-04-09 | Online Co-Op, Horror, First-Person, Co-op, Exploration
+2909110 | Nuclear Nightmare | 0.631 | $5.2M | 1,616,881 copies | 2024-10-20 | Online Co-Op, Survival Horror, Horror, Co-op, First-Person
+2827200 | MIMESIS | 0.600 | $8.4M | 1,143,826 copies | 2025-10-27 | Early Access, Online Co-Op, Horror, Funny, Psychological Horror
+2963880 | Murky Divers | 0.540 | $3.0M | 556,067 copies | 2024-06-19 | Multiplayer, Horror, Funny, First-Person, Online Co-Op
+3062930 | Unplagued | 0.520 | $1.2M | 185,149 copies | 2024-10-10 | Online Co-Op, Horror, Multiplayer, First-Person, Exploration
+2506160 | Fears to Fathom - Ironbark Lookout | 0.503 | $1.6M | 249,626 copies | 2023-10-20 | Horror, Psychological Horror, Atmospheric, Narrative, Exploration
+2835530 | Backrooms: Extractions | 0.500 | $487K | 83,626 copies | 2025-04-30 | Multiplayer, Horror, Online Co-Op, Psychological Horror, Survival Horror
+2497900 | DON'T SCREAM | 0.461 | $1.6M | 200,946 copies | 2023-10-27 | Psychological Horror, Horror, Atmospheric, Walking Simulator, First-Person
+2747330 | Species: Unknown | 0.457 | $2.3M | 254,801 copies | 2025-10-23 | Early Access, Horror, Online Co-Op, First-Person, Atmospheric
+3025290 | UNDERWARD | 0.457 | $486K | 93,301 copies | 2025-02-05 | Horror, Perma Death, Online Co-Op, Multiplayer, Stealth
+
+## Content Warning (ID:2881650)
+## Tags: 3D, Action Roguelike, Adventure, Atmospheric, Co-op, Comedy, Exploration, First-Person
+## Price: $7.99  |  Release: 2024-04-01  |  Revenue: $35.8M
+
+2823080 | Sketchy's Contract | 0.599 | $539K | 69,363 copies | 2024-04-09 | Online Co-Op, Horror, First-Person, Co-op, Exploration
+2761670 | Sinister Night 2 | 0.585 | $644K | 96,310 copies | 2024-04-03 | Multiplayer, Survival Horror, Horror, Social Deduction, First-Person
+2232600 | Anomaly Exit | 0.559 | $319K | 73,574 copies | 2024-03-31 | Online Co-Op, Psychological Horror, Hidden Object, Puzzle, Horror
+2275020 | Backrooms Rec. | 0.551 | $716K | 151,273 copies | 2024-03-06 | Multiplayer, Online Co-Op, Survival Horror, Horror, Choose Your Own Adventure
+2963880 | Murky Divers | 0.549 | $3.0M | 556,067 copies | 2024-06-19 | Multiplayer, Horror, Funny, First-Person, Online Co-Op
+2774380 | Hospital 666 | 0.544 | $792K | 134,162 copies | 2024-03-05 | Horror, Online Co-Op, Psychological Horror, Multiplayer, Realistic
+2965660 | PILGRIM | 0.533 | $2.0M | 295,125 copies | 2024-05-31 | Early Access, Horror, Exploration, Dungeon Crawler, PvE
+2793370 | [Chilla's Art] Shinkansen 0 | 新幹線 0号 | 0.519 | $494K | 76,814 copies | 2024-03-22 | Horror, Psychological Horror, Choices Matter, Supernatural, Realistic
+2960770 | The Anomaly Project | 0.501 | $323K | 53,704 copies | 2024-07-24 | Online Co-Op, Horror, Psychological Horror, Multiplayer, Co-op
+2708450 | Oh Deer | 0.491 | $2.4M | 340,276 copies | 2024-03-15 | Multiplayer, Funny, Horror, Stealth, Social Deduction
+
+## Balatro (ID:2379780)
+## Tags: 2D, Arcade, Card Battler, Card Game, Casual, Choices Matter, Deckbuilding, Difficult
+## Price: $14.99  |  Release: 2024-02-20  |  Revenue: $78.2M
+
+2056210 | LONESTAR | 0.646 | $1.3M | 154,459 copies | 2024-01-18 | Roguelike, Strategy, Turn-Based Tactics, Card Battler, Roguelike Deckbuilder
+2026820 | Die in the Dungeon | 0.643 | $1.4M | 143,874 copies | 2025-02-21 | Early Access, Indie, Difficult, Fantasy, Roguelike Deckbuilder
+2789810 | Bingle Bingle | 0.626 | $598K | 61,424 copies | 2024-03-18 | Roguelike Deckbuilder, Card Game, Roguelike, Turn-Based Tactics, Deckbuilding
+1990110 | SpellRogue | 0.614 | $1.1M | 88,808 copies | 2024-02-12 | Deckbuilding, Dice, Roguelike Deckbuilder, Card Battler, Difficult
+1996430 | Dicefolk | 0.592 | $533K | 50,613 copies | 2024-02-27 | Roguelike Deckbuilder, Turn-Based Combat, Roguelike, Turn-Based Strategy, Roguelite
+2400510 | Dungeons & Degenerate Gamblers | 0.571 | $3.3M | 281,065 copies | 2024-08-08 | Roguelike Deckbuilder, Strategy, Roguelike, Card Game, Deckbuilding
+3166810 | Insider Trading | 0.558 | $559K | 54,206 copies | 2026-02-18 | Strategy, Roguelike Deckbuilder, Gambling, Deckbuilding, Singleplayer
+2113040 | RUNGORE | 0.543 | $575K | 67,867 copies | 2023-10-12 | Trading Card Game, Indie, Card Game, Card Battler, Real Time Tactics
+2427700 | Backpack Battles | 0.531 | $14.1M | 1,466,194 copies | 2024-03-08 | Auto Battler, Inventory Management, Strategy, PvP, Roguelike Deckbuilder
+2084000 | Shogun Showdown | 0.523 | $3.2M | 344,284 copies | 2023-06-27 | Replay Value, Strategy RPG, Turn-Based, Roguelike, Pixel Graphics
+
+## R.E.P.O. (ID:3241660)
+## Tags: 3D, Action, Action Roguelike, Co-op, Comedy, Early Access, Exploration, First-Person
+## Price: $9.99  |  Release: 2025-02-26  |  Revenue: $151.3M
+
+3025290 | UNDERWARD | 0.577 | $486K | 93,301 copies | 2025-02-05 | Horror, Perma Death, Online Co-Op, Multiplayer, Stealth
+619540 | Darkwater | 0.539 | $448K | 58,523 copies | 2025-04-22 | Early Access, Online Co-Op, Horror, Survival, Submarine
+2698870 | Midnight Murder Club | 0.533 | $747K | 54,076 copies | 2025-03-13 | Horror, FPS, PvP, Co-op, Action
+3176060 | Emissary Zero | 0.521 | $1.6M | 220,406 copies | 2025-03-28 | Horror, Multiplayer, Online Co-Op, Psychological Horror, Co-op
+3168600 | Among Us 3D | 0.498 | $1.2M | 183,833 copies | 2025-05-06 | 3D, Casual, Strategy, First-Person, Funny
+1801520 | Zombieville USA 3D | 0.496 | $739K | 83,867 copies | 2025-03-07 | Arcade, Action, Top-Down Shooter, Shooter, Action Roguelike
+3438990 | Cheaters Cheetah | 0.493 | $358K | 54,416 copies | 2025-03-10 | FPS, Multiplayer, Shooter, PvP, Action
+3834090 | YAPYAP | 0.489 | $6.0M | 849,676 copies | 2026-02-03 | Online Co-Op, Multiplayer, Comedy, Magic, Horror
+2689470 | CRUEL | 0.474 | $531K | 56,609 copies | 2025-01-09 | Action, First-Person, Roguelike, Boomer Shooter, Procedural Generation
+2259310 | ORDER 13 | 0.473 | $498K | 76,050 copies | 2025-03-10 | Survival Horror, Immersive Sim, Cats, Psychological Horror, First-Person
+
+## Schedule I (ID:3164500)
+## Tags: Action, Action-Adventure, Automation, Base Building, Building, Character Customization, Co-op, Crafting
+## Price: $19.99  |  Release: 2025-03-24  |  Revenue: $142.9M
+
+1601330 | Survival Machine | 0.501 | $940K | 66,228 copies | 2025-05-07 | Open World Survival Craft, Survival, Online Co-Op, Co-op, Base Building
+2625420 | Drive Beyond Horizons | 0.500 | $21.2M | 1,051,912 copies | 2025-03-24 | Multiplayer, Automobile Sim, Adventure, Driving, Simulation
+2750000 | Microtopia | 0.489 | $1.0M | 64,756 copies | 2025-02-18 | Colony Sim, Automation, Procedural Generation, Resource Management, Sandbox
+3158270 | Football Life Simulator | 0.486 | $751K | 80,901 copies | 2025-04-11 | Simulation, Football (Soccer), Life Sim, Indie, Time Management
+2292800 | Blacksmith Master | 0.469 | $2.3M | 178,302 copies | 2025-05-15 | Early Access, Strategy, Simulation, City Builder, Base Building
+2078230 | Badlands Crew - Drive, Command, Conquer | 0.468 | $763K | 53,541 copies | 2025-04-28 | Vehicular Combat, Strategy, Building, Post-apocalyptic, Indie
+2680550 | Hollywood Animal | 0.467 | $1.3M | 86,931 copies | 2025-04-10 | Early Access, Simulation, Strategy, City Builder, Choices Matter
+3020510 | Legend of Heroes: Three Kingdoms | 0.466 | $6.5M | 480,840 copies | 2025-03-25 | Early Access, Simulation, Strategy, RPG, Turn-Based Strategy
+3314060 | The Sims™ Legacy Collection | 0.448 | $3.1M | 177,198 copies | 2025-01-31 | Sandbox, Building, Management, Life Sim, Casual
+3028310 | Nordhold | 0.448 | $3.2M | 212,518 copies | 2025-03-25 | Strategy, Tower Defense, Roguelite, Dark Fantasy, Turn-Based Strategy
+
+## Enshrouded (ID:1203620)
+## Tags: 3D, Action, Action RPG, Adventure, Base Building, Building, Character Customization, Crafting
+## Price: $29.99  |  Release: 2024-01-24  |  Revenue: $118.0M
+
+1928980 | Nightingale | 0.730 | $11.7M | 596,975 copies | 2024-02-20 | Early Access, Open World Survival Craft, Multiplayer, Survival, Open World
+1519090 | Welcome to ParadiZe | 0.649 | $1.0M | 54,433 copies | 2024-02-29 | Action, Zombies, Multiplayer, Co-op, Singleplayer
+2933130 | The Lord of the Rings: Return to Moria™ | 0.600 | $11.6M | 682,753 copies | 2024-08-27 | Base Building, Open World Survival Craft, Dwarf, Survival, Exploration
+2313330 | TerraTech Worlds | 0.563 | $2.0M | 75,749 copies | 2024-03-22 | Early Access, Base Building, Open World Survival Craft, Sandbox, Co-op
+1374490 | RuneScape: Dragonwilds | 0.560 | $30.5M | 1,120,902 copies | 2025-04-15 | Open World, Survival, Open World Survival Craft, Multiplayer, Co-op
+2178070 | Towers of Aghasba | 0.560 | $1.8M | 66,818 copies | 2024-11-19 | Early Access, Creature Collector, Action RPG, Adventure, Action
+1812450 | Bellwright | 0.557 | $23.2M | 961,578 copies | 2024-04-23 | Survival, Open World, Medieval, City Builder, Crafting
+850190 | Goat Simulator 3 | 0.550 | $7.8M | 611,944 copies | 2024-02-15 | Physics, Sandbox, Exploration, Open World, Simulation
+1458140 | Pacific Drive | 0.543 | $21.1M | 1,074,831 copies | 2024-02-21 | Driving, Survival, Story Rich, Exploration, Survival Horror
+2071500 | Islands of Insight | 0.528 | $3.0M | 149,136 copies | 2024-02-13 | Puzzle Platformer, Nonlinear, Puzzle, Open World, Exploration
+
+## Manor Lords (ID:1363080)
+## Tags: 4X, Base Building, Building, City Builder, Colony Sim, Diplomacy, Early Access, Economy
+## Price: $39.99  |  Release: 2024-04-26  |  Revenue: $93.2M
+
+1857090 | Norland | 0.708 | $10.3M | 529,032 copies | 2024-07-18 | Strategy, Simulation, City Builder, Base Building, Colony Sim
+2489330 | Whiskerwood | 0.600 | $2.5M | 132,224 copies | 2025-11-06 | Strategy, Simulation, City Builder, Base Building, Colony Sim
+1268590 | Millennia | 0.566 | $3.2M | 95,848 copies | 2024-03-26 | Strategy, Turn-Based Strategy, 4X, Grand Strategy, Simulation
+2001070 | Heart of the Machine | 0.543 | $1.0M | 52,894 copies | 2025-01-31 | Strategy, Simulation, Grand Strategy, Base Building, City Builder
+1823950 | Laysara: Summit Kingdom | 0.471 | $1.3M | 92,630 copies | 2024-04-10 | Strategy, City Builder, Resource Management, Colony Sim, Building
+2479810 | Gray Zone Warfare | 0.462 | $38.5M | 1,173,492 copies | 2024-04-30 | FPS, Tactical, Realistic, Extraction Shooter, Simulation
+3215050 | Surviving Mars: Relaunched | 0.457 | $2.3M | 66,188 copies | 2025-11-10 | Simulation, Strategy, Colony Sim, City Builder, Exploration
+2477340 | Expeditions: A MudRunner Game | 0.448 | $6.6M | 223,791 copies | 2024-03-05 | Moddable, Multiplayer, Nature, Singleplayer, Driving
+1989070 | Synergy | 0.429 | $1.5M | 87,219 copies | 2024-05-21 | Stylized, City Builder, Economy, Colony Sim, Strategy
+1371980 | No Rest for the Wicked | 0.423 | $50.5M | 2,056,029 copies | 2024-04-18 | Early Access, Action RPG, Online Co-Op, Souls-like, Combat
+
+## Escape From Duckov (ID:3167020)
+## Tags: Action, Action Roguelike, Action-Adventure, Adventure, Base Building, Cartoon, Cute, Exploration
+## Price: $17.99  |  Release: 2025-10-16  |  Revenue: $58.4M
+
+2062430 | BALL x PIT | 0.489 | $17.1M | 1,350,705 copies | 2025-10-15 | Action, Roguelite, Arcade, Bullet Hell, Roguelike
+1757300 | Jump Space | 0.457 | $11.4M | 631,637 copies | 2025-09-19 | Co-op, PvE, Space, FPS, Sci-fi
+1857950 | VEIN | 0.437 | $8.8M | 494,500 copies | 2025-10-24 | Early Access, Survival, Open World, Zombies, Base Building
+3008740 | Winter Burrow | 0.436 | $1.1M | 71,586 copies | 2025-11-12 | Cozy, Exploration, Crafting, Survival, Cute
+2313700 | Constance | 0.423 | $1.1M | 61,776 copies | 2025-11-24 | Metroidvania, Platformer, 2D, Action, Action-Adventure
+1281040 | Baby Steps | 0.420 | $1.4M | 88,698 copies | 2025-09-23 | Walking Simulator, Action, Adventure, Comedy, Exploration
+3026450 | Deadly Days: Roadtrip | 0.419 | $1.5M | 163,629 copies | 2025-09-22 | Early Access, Action Roguelike, Inventory Management, Loot, Bullet Hell
+2687400 | GODBREAKERS | 0.419 | $1.3M | 71,133 copies | 2025-10-23 | Action Roguelike, Online Co-Op, Fast-Paced, Spectacle fighter, Replay Value
+3067890 | Star Fire: Eternal Cycle | 0.404 | $583K | 51,501 copies | 2025-09-08 | Side Scroller, Action Roguelike, Beat 'em up, Action, Action-Adventure
+3654560 | Plants vs. Zombies™: Replanted | 0.401 | $2.5M | 156,536 copies | 2025-10-23 | Tower Defense, Local Multiplayer, Zombies, Local Co-Op, Retro
+
+## THE FINALS (ID:2073850)
+## Tags: Action, Arena Shooter, Atmospheric, Battle Royale, Character Customization, Class-Based, Co-op, Combat
+## Price: $0.0  |  Release: 2023-12-07  |  Revenue: $78.5M
+
+1955960 | HAWKED | 0.566 | $243K | 474,201 copies | 2023-11-30 | Free to Play, Online Co-Op, Action-Adventure, Adventure, PvE
+2551020 | One-armed robber | 0.541 | $1.3M | 6,735,690 copies | 2023-12-15 | Free to Play, Multiplayer, Co-op, Heist, Action
+1607250 | MY HERO ULTRA RUMBLE | 0.522 | $14.6M | 2,712,513 copies | 2023-09-28 | Anime, Free to Play, Battle Royale, Multiplayer, PvP
+2239140 | Grapples Galore | 0.519 | $1K | 1,336,435 copies | 2023-11-09 | Free to Play, Multiplayer, Physics, Parkour, Arena Shooter
+2051500 | Soak & Splash | 0.507 | $0K | 102,467 copies | 2023-11-19 | Adventure, Action, First-Person, Action-Adventure, 3D
+2667430 | Grimhook | 0.505 | $0K | 91,593 copies | 2023-12-08 | Action, Adventure, First-Person, Action-Adventure, Platformer
+2051620 | Enlisted | 0.503 | $7.5M | 2,338,579 copies | 2024-03-28 | FPS, World War II, Multiplayer, Shooter, PvP
+2524890 | Pixel Gun 3D: PC Edition | 0.498 | $9.8M | 2,987,477 copies | 2024-04-02 | PvP, Pixel Graphics, Multiplayer, Shooter, FPS
+2357570 | Overwatch® | 0.495 | $94.2M | 16,374,117 copies | 2023-08-10 | Free to Play, Hero Shooter, FPS, Multiplayer, Team-Based
+2281730 | Combat Master: Season 5 | 0.489 | $3.3M | 4,074,195 copies | 2023-04-21 | FPS, Multiplayer, Action, Shooter, Free to Play
+
+## Path of Exile 2 (ID:2694490)
+## Tags: Action, Action RPG, Adventure, Character Customization, Crafting, Dark, Dark Fantasy, Dungeon Crawler
+## Price: $29.99  |  Release: 2024-12-06  |  Revenue: $148.1M
+
+2178070 | Towers of Aghasba | 0.531 | $1.8M | 66,818 copies | 2024-11-19 | Early Access, Creature Collector, Action RPG, Adventure, Action
+2996040 | Teenage Mutant Ninja Turtles: Splintered Fate | 0.517 | $2.9M | 205,012 copies | 2024-11-06 | Action Roguelike, Co-op, Multiplayer, PvE, Adventure
+1534840 | Hyper Light Breaker | 0.507 | $2.4M | 92,220 copies | 2025-01-14 | Early Access, Action, Adventure, Action-Adventure, RPG
+2521380 | Legacy of Kain™ Soul Reaver 1&2 Remastered | 0.481 | $3.4M | 159,465 copies | 2024-12-10 | Action, Adventure, Dark Fantasy, Third Person, Action-Adventure
+292000 | No More Room in Hell 2 | 0.477 | $10.2M | 414,359 copies | 2024-10-22 | Early Access, Zombies, Multiplayer, Online Co-Op, Co-op
+2647680 | ICBM: Escalation | 0.450 | $2.3M | 88,168 copies | 2024-11-21 | Wargame, PvP, RTS, Grand Strategy, Singleplayer
+2933130 | The Lord of the Rings: Return to Moria™ | 0.438 | $11.6M | 682,753 copies | 2024-08-27 | Base Building, Open World Survival Craft, Dwarf, Survival, Exploration
+2254890 | The Killing Antidote | 0.437 | $3.5M | 162,882 copies | 2024-10-05 | Early Access, Female Protagonist, Sexual Content, Zombies, Third-Person Shooter
+2458830 | Towerborne | 0.431 | $2.2M | 106,470 copies | 2024-09-10 | Action RPG, Loot, Co-op, Fantasy, Action
+2000890 | MechWarrior 5: Clans | 0.429 | $3.8M | 124,674 copies | 2024-10-16 | Action, Simulation, Shooter, Mechs, FPS
+
+# ========== MANUALLY ADDED CONTROLS ==========
+
+2807960 | Battlefield™ 6 | MANUAL | $582.6M | 10,373,940 copies | 2025-10-10 | Multiplayer, FPS, Action, Military, Singleplayer
+2507950 | Delta Force | MANUAL | $82.2M | 15,563,559 copies | 2024-12-04 | Free to Play, FPS, Multiplayer, Extraction Shooter, Shooter
+2357570 | Overwatch® | MANUAL | $94.2M | 16,374,117 copies | 2023-08-10 | Free to Play, Hero Shooter, FPS, Multiplayer, Team-Based
+2069250 | High On Life 2 | MANUAL | $2.2M | 39,486 copies | 2026-02-13 | Action, Singleplayer, Adventure, FPS, Action-Adventure
+2943650 | FragPunk | MANUAL | $24.1M | 4,712,099 copies | 2025-03-06 | Free to Play, FPS, Hero Shooter, Multiplayer, Action
+2452280 | Mecha BREAK | MANUAL | $5.9M | 2,450,356 copies | 2025-07-01 | Free to Play, Mechs, Robots, PvP, Multiplayer
+1282270 | Strinova | MANUAL | $17.4M | 1,722,753 copies | 2024-11-21 | Free to Play, Anime, Third-Person Shooter, Hero Shooter, FPS
+3199170 | Blood Strike | MANUAL | $5.3M | 1,992,528 copies | 2024-10-18 | Action, Battle Royale, Shooter, FPS, Multiplayer
+1928420 | Farlight 84 | MANUAL | $9.5M | 5,049,094 copies | 2023-04-23 | Free to Play, Battle Royale, Multiplayer, Hero Shooter, Shooter
+2073620 | Arena Breakout: Infinite | MANUAL | $17.9M | 3,198,121 copies | 2025-09-15 | Free to Play, Extraction Shooter, Multiplayer, FPS, Realistic
